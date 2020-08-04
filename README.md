@@ -1,3 +1,3 @@
 Revisão das aulas sobre git no curso do Bonieky. 
 
-(Atualizando o arquivo README)
+(Esta é a versão 2 do repositório)
