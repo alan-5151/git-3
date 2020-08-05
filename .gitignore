@@ -1,4 +1,4 @@
 *.txt
 *.sql
-.env
-assets/src
+*.env
+/assets/src
